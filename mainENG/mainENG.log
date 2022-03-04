@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.30)  25 FEB 2022 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.30)  4 MAR 2022 13:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -741,64 +741,64 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inpu
  (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 53--60
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
 
  []
 
 <Fototessera.jpg, id=9, 524.6802pt x 540.3387pt>
 File: Fototessera.jpg Graphic file (type jpg)
 <use Fototessera.jpg>
-Package pdftex.def Info: Fototessera.jpg  used on input line 65.
+Package pdftex.def Info: Fototessera.jpg  used on input line 66.
 (pdftex.def)             Requested size: 96.73788pt x 99.62305pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 71.
+(Font)              scaled to size 9.0pt on input line 72.
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 109.
+(Font)              scaled to size 7.0pt on input line 110.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 109.
+(Font)              scaled to size 7.0pt on input line 110.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 127.
+(Font)              scaled to size 9.0pt on input line 128.
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Fototessera.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 <firma.jpg, id=22, 1284.8pt x 710.655pt>
 File: firma.jpg Graphic file (type jpg)
 <use firma.jpg>
-Package pdftex.def Info: firma.jpg  used on input line 201.
+Package pdftex.def Info: firma.jpg  used on input line 202.
 (pdftex.def)             Requested size: 120.92421pt x 66.88399pt.
 [2 <./firma.jpg>] (./mainENG.aux)
 Package rerunfilecheck Info: File `mainENG.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23890 strings out of 478994
- 453079 string characters out of 5858183
+ 23889 strings out of 478994
+ 453069 string characters out of 5858183
  781008 words of memory out of 5000000
- 40933 multiletter control sequences out of 15000+600000
+ 40932 multiletter control sequences out of 15000+600000
  529679 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,8n,130p,477b,682s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on mainENG.pdf (2 pages, 651515 bytes).
+Output written on mainENG.pdf (2 pages, 651505 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
