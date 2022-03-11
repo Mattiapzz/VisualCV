@@ -51,9 +51,9 @@
 \geometry{
 	paper=a4paper, % Paper size, change to letterpaper for US letter size
 	top=2cm, % Top margin 1.75
-	bottom=2cm, % Bottom margin
-	left=2cm, % Left margin 2.00
-	right=2cm, % Right margin
+	bottom=1.5cm, % Bottom margin
+	left=1.5cm, % Left margin 2.00
+	right=1.5cm, % Right margin
 	headheight=0.75cm, % Header height
 	footskip=1cm, % Space from the bottom margin to the baseline of the footer
 	headsep=0.5cm, % Space from the top margin to the baseline of the header
@@ -172,7 +172,7 @@
 % Command to output section title headings
 \newcommand{\cvsect}[1]{% The only parameter is the section text
 	\vspace{\baselineskip} % Whitespace before the section title
-	\colorbox{black}{\textcolor{white}{\MakeUppercase{\textbf{#1}}}}\\% Section title
+	\colorbox{white}{\textcolor{black}{\MakeUppercase{\Large\textbf{#1}}}}\\% Section title
 }
 
 %----------------------------------------------------------------------------------------
