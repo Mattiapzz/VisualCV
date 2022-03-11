@@ -50,10 +50,10 @@
 
 \geometry{
 	paper=a4paper, % Paper size, change to letterpaper for US letter size
-	top=1.5cm, % Top margin 1.75
-	bottom=1.5cm, % Bottom margin
-	left=1.5cm, % Left margin 2.00
-	right=1.5cm, % Right margin
+	top=2cm, % Top margin 1.75
+	bottom=2cm, % Bottom margin
+	left=2cm, % Left margin 2.00
+	right=2cm, % Right margin
 	headheight=0.75cm, % Header height
 	footskip=1cm, % Space from the bottom margin to the baseline of the footer
 	headsep=0.5cm, % Space from the top margin to the baseline of the header
@@ -126,10 +126,11 @@
 		
 		\pgfmathparse{(\barwidth*\thebarcount)+(\barsep*\thebarcount)}
 		\let\barx\pgfmathresult
-		
+		%%
 		\filldraw[fill=black, draw=none] (0,-\barx) rectangle (\barone,-\barx-\barwidth);
 		
-		\node [label=180:\colorbox{black}{\textcolor{white}{##1}}] at (0,-\barx-0.175) {};
+		% \node [label=180:\colorbox{black}{\textcolor{white}{##1}}] at (0,-\barx-0.175) {};
+		\node [label=180:\colorbox{white}{\textcolor{black}{{##1}}}] at (0,-\barx-0.175) {};
 		\addtocounter{barcount}{1}
 	}
 	\begin{tikzpicture}

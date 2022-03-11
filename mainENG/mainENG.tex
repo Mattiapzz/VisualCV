@@ -20,7 +20,7 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+\documentclass[9pt]{developercv_mattia} % Default font size, values from 8-12pt are recommended
 \usepackage{graphicx}
 % \usepackage[UKenglish]{babel}
 \usepackage[british]{babel}
@@ -79,10 +79,12 @@
 % \vspace{0.5cm}
 %	INTRODUCTION, SKILLS AND TECHNOLOGIES
 %
-\cvsect{Who am I?}
+% \cvsect{Who am I?}
 %
-\begin{minipage}[t]{0.52\textwidth} % 40% of the page width for the introduction text
-	\vspace{-\baselineskip} % Required for vertically aligning minipages
+\begin{minipage}[t]{0.54\textwidth} % 40% of the page width for the introduction text
+	\cvsect{Who am I?}
+	
+	% \vspace{-\baselineskip} % Required for vertically aligning minipages
 %
 I am a passionate, pragmatic and goal-driven mechatronics engineer always looking for personal growth opportunities and challenges. This drove me in my academic choices and allowed me to approach the world of autonomous driving.
 To pursue my passion, I became a researcher at the University where I had the opportunity to work on optimal control problems and algorithm development for ADAS in collaboration with racing and the industrial world.
@@ -98,7 +100,8 @@ In my work and life, I am always curious, ambitious, open-minded and determined 
 \end{minipage}
 \hfill % Whitespace between
 \begin{minipage}[t]{0.45\textwidth} % 50% of the page for the skills bar chart
-	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	% \vspace{-\baselineskip} % Required for vertically aligning minipages
+	\cvsect{Software and programmig skills}
 	\begin{barchart}{5.5}
 		\baritem{Maple}{100}
 		\baritem{Matlab}{80}
@@ -156,11 +159,11 @@ In my work and life, I am always curious, ambitious, open-minded and determined 
 		{SIAP s.p.a. gruppo CARRARO}
 		{Precision measurements of mechanical components, development of sequential charts, specific control plans (SPC), CCP, measurements for capability analysis (Cp, Cpk, \textit{etc.}).
 		}
-	\entry
-		{Jun.--Sept. 2013 \&\\Jun.--Sept. 2012}
-		{Plumber apprentice}
-		{DE NARDO ALESSANDRO IMPIANTI TERMOIDRAULICI}
-		{Plumber apprentice during summer season.}
+	% \entry
+	% 	{Jun.--Sept. 2013 \&\\Jun.--Sept. 2012}
+	% 	{Plumber apprentice}
+	% 	{DE NARDO ALESSANDRO IMPIANTI TERMOIDRAULICI}
+	% 	{Plumber apprentice during summer season.}
 \end{entrylist}
 %
 %	EDUCATION
